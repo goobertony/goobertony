@@ -13,7 +13,4 @@
     <img align="left" src="https://github-profile-trophy.vercel.app/?username=takogames" />
 </a>
 
-<!--
-**hiyuki2578/hiyuki2578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I design keyboards and develop web to weaponize my autism.
