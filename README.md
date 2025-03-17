@@ -12,7 +12,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-profile-trophy.vercel.app/?username=takogames" />
 </a>
-
-
-
- ### I design keyboards and develop web to weaponize my autism.
